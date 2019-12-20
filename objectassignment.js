@@ -3,6 +3,8 @@ MyObject = {
     prop2: 'goodbye'
 }
 
+{method} = request
+
 MyObject.prop3 = 'maybe'
 
 console.log(MyObject.prop1)
